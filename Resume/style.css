@@ -1,0 +1,292 @@
+body {
+    border: 15px solid rgb(76, 76, 235);
+    width: 800px;
+    height: 1000px;
+    margin-left: 300px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+img {
+    width: 120px;
+    height: 120px;
+    margin-left: 30px;
+    margin-top: 30px;
+    border-radius: 50%;
+    position: absolute;
+    top: 12px;
+}
+
+.content {
+    margin-top: 30px;
+    margin-left: 40px;
+    background-color: rgb(231, 226, 226);
+    height: 100px;
+    width: 700px;
+    border-bottom-left-radius: 100px;
+    border-top-left-radius: 100px;
+    opacity: 0.5;
+}
+
+h2 {
+    position: relative;
+    font-weight: bold;
+    margin-top: -79px;
+    margin-left: 180px;
+}
+
+h4 {
+    margin-top: -30px;
+    margin-left: 180px;
+    font-size: 20px;
+}
+
+.location {
+    position: relative;
+    margin-top: -80px;
+    float: right;
+    width: 240px;
+    height: 600px;
+    right: 100px;
+    font-size: smaller;
+    font-weight: bold;
+    color: #3e3e3e;
+}
+
+.note1 {
+    position: relative;
+    background-color: blue;
+    height: 20px;
+    width: 20px;
+    top: 80px;
+    left: 30px;
+}
+
+h3 {
+    font-weight: bold;
+    margin-left: 30px;
+}
+
+p {
+    position: relative;
+    width: 300px;
+}
+
+hr {
+    width: 300px;
+    background-color: blue;
+    height: 2px;
+}
+
+.note2 {
+    position: relative;
+    background-color: blue;
+    height: 20px;
+    width: 20px;
+    top: 220px;
+    left: 30px;
+}
+
+.Exe {
+    margin-top: 200px;
+    margin-left: 60px;
+}
+
+.founder {
+    position: relative;
+    width: 300px;
+    margin-top: -9px;
+    left: 30px;
+}
+
+.savon {
+    left: 30px;
+    margin-top: 10px;
+}
+
+.Info {
+    position: relative;
+    width: 300px;
+    margin-top: -10px;
+    left: 30px;
+}
+
+.Info_Comm {
+    position: relative;
+    width: 300px;
+    margin-top: 10px;
+    left: 30px;
+}
+
+.Atlantic {
+    position: relative;
+    width: 300px;
+    margin-top: -10px;
+    left: 30px;
+}
+
+.Worked {
+    left: 30px;
+    margin-top: 10px;
+}
+
+.skill {
+    position: relative;
+    width: 300px;
+    top: -35px;
+    left: 30px;
+}
+
+.Skill1 {
+    position: relative;
+    width: 300px;
+    top: -45px;
+    left: 30px;
+}
+
+.note3 {
+    position: relative;
+    background-color: blue;
+    height: 20px;
+    width: 20px;
+    top: 5px;
+    left: 30px;
+}
+
+.hr2 {
+    width: 300px;
+    background-color: blue;
+    height: 2px;
+    margin-left: 30px;
+}
+
+.hr3 {
+    position: relative;
+    width: 300px;
+    background-color: blue;
+    height: 2px;
+    margin-left: 30px;
+    top: -50px;
+}
+
+.note4 {
+    position: relative;
+    background-color: blue;
+    height: 20px;
+    width: 20px;
+    top: -45px;
+    left: 30px;
+}
+
+.Ref {
+    position: relative;
+    width: 300px;
+    top: -85px;
+    left: 30px;
+}
+
+.Avalable {
+    position: relative;
+    width: 300px;
+    top: -100px;
+    left: 30px;
+}
+
+
+/* Right Hand Side */
+
+.note5 {
+    position: relative;
+    background-color: blue;
+    height: 20px;
+    width: 20px;
+    top: -790px;
+    float: right;
+    right: 340px;
+}
+
+.personal {
+    float: right;
+    margin-top: -790px;
+    margin-right: 100px;
+}
+
+.Personal_list {
+    float: right;
+    margin-top: -760px;
+    right: 40px;
+}
+
+.hr4 {
+    width: 300px;
+    background-color: blue;
+    height: 2px;
+    position: relative;
+    top: -530px;
+    right: -200px;
+}
+
+.note6 {
+    position: relative;
+    background-color: blue;
+    height: 20px;
+    width: 20px;
+    top: -520px;
+    float: right;
+    right: 323px;
+}
+
+.education {
+    float: right;
+    margin-top: -520px;
+    margin-right: 20px;
+}
+
+.eksu {
+    position: relative;
+    top: -493px;
+    float: right;
+}
+
+.date1 {
+    color: blue;
+    font-weight: bolder;
+}
+
+.eksu_1 {
+    position: relative;
+    float: right;
+    top: -400px;
+    right: -300px;
+    margin-top: 2px;
+}
+
+.date2 {
+    color: blue;
+    font-weight: bolder;
+}
+
+.eksu_2 {
+    position: relative;
+    float: right;
+    top: -400px;
+    right: -300px;
+    margin-top: -2px;
+}
+
+.date3 {
+    color: blue;
+    font-weight: bolder;
+}
+
+.eksu_3 {
+    position: relative;
+    float: right;
+    top: -400px;
+    right: 47px;
+    margin-top: -2px;
+}
+
+.date4 {
+    color: blue;
+    font-weight: bolder;
+}
